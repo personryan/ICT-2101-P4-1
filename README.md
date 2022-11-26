@@ -37,6 +37,9 @@ The Figma Prototype has been developed in 3 parts and each part can be accessed 
 - []() Manager Pages - [figma-manager]
 - []() IT admin Pages - [figma-IT]
 
+A video walkthrough of the prototype can be found at the following link: [walkthrough].
+Kindly turn on closed captions.
+
 ## Prototype Flows
 
 ### Staff Pages
@@ -118,3 +121,4 @@ The team would like to thank the following Singapore Institute of Technology (SI
 [figma-staff]: https://www.figma.com/proto/4lI6XV0cZOifpHER3bquuG/WEEWOO?node-id=238%3A3574&scaling=min-zoom&page-id=5%3A765&starting-point-node-id=5%3A37025&show-proto-sidebar=1
 [figma-manager]: https://www.figma.com/proto/4lI6XV0cZOifpHER3bquuG/WEEWOO?node-id=5%3A17869&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=241%3A3068
 [figma-it]: https://www.figma.com/proto/4lI6XV0cZOifpHER3bquuG/WEEWOO?node-id=30%3A6947&scaling=min-zoom&page-id=5%3A17270&starting-point-node-id=30%3A6947
+[walkthrough]: https://www.youtube.com/watch?v=sg4wJATiQG8
