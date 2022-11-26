@@ -8,7 +8,7 @@
 | -------------- | ------------------------------------------- |
 | Shaun Varghese | Team Lead / Backend Developer               |
 | Chee Kang Chen | Tech Lead(Architect) / Full Stack Developer |
-| Ling Sing Yu   | Front End Developer / UI/UX Designerr       |
+| Ling Sing Yu   | Front End Developer / UI/UX Designer        |
 | Lim Ryan       | Full Stack Developer / QA Engineer          |
 
 <!-- ABOUT THE PROJECT -->
@@ -103,7 +103,7 @@ The Figma Prototype has been developed in 3 parts and each part can be accessed 
 
 # Acknowledgments
 
-The team would like to thank all Professors for the knowledge they have imparted to us and for giving us their time during labtorials and consultations.
+The team would like to thank the following Singapore Institute of Technology (SIT) Professors for the knowledge they have imparted to us and for giving us their time during labtorials and consultations.
 
 - []() Prof. Marcus Tan
 - []() Prof. Eric Lam
